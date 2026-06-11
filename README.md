@@ -17,7 +17,7 @@ The dashboard file is here: [`data_jobs_dashboard_2.0.pbix`](data_jobs_dashboard
 
 - **🎨 Dashboard Design:** Designed a clean, single-page layout that prioritises clarity and avoids visual clutter.
 - **⚙️ Power Query ETL:** Cleaned and transformed the raw dataset — handling blanks, correcting data types, and shaping the data for analysis.
-- **🔗 Data Modelling:** Built an efficient data model using Star Schema principles, establishing relationships between tables for reliable analysis.
+- **🔗 Data Modelling:** Building efficient data models with relationships (Star Schema principles).
 - **🧮 DAX Fundamentals:** Created measures and aggregations to derive key metrics including Median Yearly Salary, Median Hourly Salary, and Job Count.
 - **📊 Visualisations Used:**
   - **📈 Core Charts:** Column, Bar, Line, and Area charts for comparisons and trend analysis
